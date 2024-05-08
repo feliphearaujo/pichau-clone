@@ -1,0 +1,9 @@
+.header_first_line{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+}
+
+.header_first_line nav{
+    display: flex;
+}
